@@ -1,0 +1,8 @@
+/ignore/
+
+
+*.pyc
+*.docx
+*.tmp
+.RData
+.Rhistory
